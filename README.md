@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Shreyansh%20Pandey&fontSize=70&animation=fadeIn&desc=Backend%20Architect%20|%20AI%20Enthusiast&descAlignY=75&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Shreyansh%20Pandey&fontSize=70&animation=fadeIn&desc=First-Year%20CSE%20@%20Galgotias%20University&descAlignY=75&descAlign=50" />
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 ## ⚡ About Me
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreybaba&layout=compact&theme=vision-glow&hide_border=true" />
 
-- 🎓 **Final Year CSE Student** at Galgotias University.
-- 🛠️ **Deep Dive:** Mastering Backend Logic with **C++** and **Java**.
-- 🔬 **Physics & Logic:** Passionate about rotational dynamics and angular momentum (solving the hard stuff with code).
-- 🚀 **Future Vision:** Integrating AI into Robotics and Agricultural Tech.
+- 🎓 **First-Year CSE Student** at Galgotias University.
+- 💻 **Core Focus:** Building a rock-solid foundation in **C/C++** and **Java**.
+- 🤖 **Tech Interests:** Exploring the intersection of **AI**, **Robotics**, and **Backend Logic**.
+- 🧩 **Problem Solver:** Currently diving deep into Physics-based simulations and computational logic.
 
 ---
 
@@ -23,30 +23,30 @@
 
 | Category | Tech Stack |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
 | **Data Science** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy) |
-| **Web Dev** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) |
+| **Web & Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) |
 
 ---
 
-## 📈 Real-Time Performance
+## 📈 Real-Time GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shreybaba&show_icons=true&theme=vision-glow&rank_icon=github&border_radius=10" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreybaba&theme=vision-glow&hide_border=true" width="48%" />
 </p>
 
-### 🐍 Coding Activity
+### 🐍 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreybaba&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-## 📂 Featured Projects
-- 🤖 **AI Agricultural Assistant:** Building a smart interface for farming using React & Vite.
-- 📐 **Physics Engine Solvers:** Computational models for rotational equilibrium.
-- ⏳ **Currently Working on:** [██████████░░░░] 75% Complete (Next-gen Backend System)
+## 📂 Early-Stage Projects
+- 🌾 **AI Agricultural Assistant:** Developing a frontend interface for smart farming (React + Vite).
+- ⚙️ **Logic & Physics:** Writing scripts to solve rotational equilibrium and angular momentum problems.
+- 🚧 **Learning Path:** Currently building more complex backend systems in C++.
 
 ---
 
