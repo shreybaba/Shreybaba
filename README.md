@@ -1,56 +1,66 @@
-# 👋 Hi, I'm Shreyansh
+# 👋 Hi, I'm Shreyansh Pandey 🚀
 
-🎓 **First-year CSE student** at Galgotias University  
-💻 **Developer** with a growing interest in Artificial Intelligence and Robotics  
-🧠 **Curious learner** who enjoys building, breaking, and refining software
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CSE%20at%20Galgotias&fontSize=50" />
+</p>
+
+### 🎓 Final Year CSE Student | Developer | Tech Enthusiast
+
+* 💻 **Focus:** Backend Development & System Architecture.
+* 🤖 **Interests:** Artificial Intelligence, Robotics, and Physics-driven simulations.
+* 🧠 **Curious Learner:** Passionate about building scalable software and solving complex problems.
+* 🎯 **Goal:** Developing reliable systems that bridge the gap between hardware and software.
 
 ---
 
-## 🚀 About Me
+## 📊 My GitHub Stats (Real-Time)
 
-* 🔭 **Currently learning:** Backend Development (C++, C, and Java)
-* 🐍 **Technical Strength:** Strong in C, with an emphasis on backend logic and system design
-* 🧩 **Interests:** Problem-solving, clean architecture, and scalable software
-* 🎯 **Goal:** Build reliable systems that solve real-world problems
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreybaba&show_icons=true&theme=dracula&count_private=true" alt="Shreyansh's Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreybaba&theme=dracula" alt="GitHub Streak" height="180" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreybaba&layout=compact&theme=dracula&hide=html,css" height="180" />
+</p>
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-pandey-44353038a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreybaba001@gmail.com) 
+---
 
-#  💻Tech Stack
+## 🛠 Tech Stack
 
-### Languages
+### 🚀 Languages & Core
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Web
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### Data Science & Analysis
+### 📊 Data Science & Analysis
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-### Tools
+### 🌐 Web & Tools
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-## 📊 GitHub Stats
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p align="left">
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shreybaba&show_icons=true&theme=dracula&cache_seconds=1800" height="180" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shreybaba&layout=compact&theme=dracula" height="180" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shreybaba&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Shreybaba" />
-</p>
 ---
 
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/shreyansh-pandey-44353038a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreyansh Pandey" height="30" width="40" /></a>
+<a href="mailto:shreybaba001@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="shreybaba001@gmail.com" height="30" width="40" /></a>
+</p>
+
+---
 
 ## 🛠️ Featured Projects
+* **AI Agricultural Assistant:** A full-stack React/Tailwind interface for smart farming.
+* **Physics Simulations:** Exploring rotational equilibrium and angular momentum via code.
+* *More backend projects coming soon...*
 
-## Coming Soon....
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shreybaba&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
