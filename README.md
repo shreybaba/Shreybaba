@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👾 Shreyansh Pandey
+#  Shreyansh Pandey
 
 ### **CSE Student · Builder in Progress · Learning Every Day**
 
 > *"The best way to learn is to build."*
 
-📍 Noida, Delhi &nbsp;|&nbsp; 🎓 B.Tech CSE @ Galgotias University &nbsp;|&nbsp; 📬 shreybaba001@gmail.com
+ Noida, Delhi &nbsp;|&nbsp; 🎓 B.Tech CSE @ Galgotias University &nbsp;|&nbsp; 📬 shreybaba001@gmail.com
 
 ---
 
