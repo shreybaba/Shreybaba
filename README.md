@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me
 
 ```txt
-🎓  First-year CSE student at Galgotias University
+🎓  Second-year CSE student at Galgotias University
 💡  Curious about how things work under the hood
 🔨  Currently focused on building strong fundamentals
 🌱  Learning C, C++, Web Development, and Version Control
