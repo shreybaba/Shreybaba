@@ -1,90 +1,151 @@
 <div align="center">
 
-#  Shreyansh Pandey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Shreyansh%20Pandey&fontSize=52&fontColor=E6EDF3&fontAlign=50&fontAlignY=52">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Shreyansh%20Pandey&fontSize=52&fontColor=1F2328&fontAlign=50&fontAlignY=52">
+  <img alt="Shreyansh Pandey" src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Shreyansh%20Pandey&fontSize=52&fontColor=6E7681&fontAlign=50&fontAlignY=52">
+</picture>
 
-### **CSE Student · Builder in Progress · Learning Every Day**
+**Understanding the machine, one program at a time.**
 
-> *"The best way to learn is to build."*
+B.Tech CSE (2nd year) · Galgotias University · Noida, India
 
- Noida, Delhi &nbsp;|&nbsp; 🎓 B.Tech CSE @ Galgotias University &nbsp;|&nbsp; 📬 shreybaba001@gmail.com
-
----
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-pandey-44353038a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreybaba001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreybaba)
+<a href="https://www.linkedin.com/in/shreyansh-pandey-44353038a">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:shreybaba001@gmail.com">Email</a> &nbsp;·&nbsp;
+<a href="https://github.com/shreybaba">GitHub</a>
 
 </div>
 
+<br>
+
 ---
 
-### 👨‍💻 About Me
+## About
 
-```txt
-🎓  Second-year CSE student at Galgotias University
-💡  Curious about how things work under the hood
-🔨  Currently focused on building strong fundamentals
-🌱  Learning C, C++, Web Development, and Version Control
-📈  One project at a time, one concept at a time
+```text
+shreyansh@noida:~$ cat about.txt
 ```
 
----
+I'm a second-year Computer Science student building strong fundamentals in C, C++ and Java. I care less about memorising syntax and more about knowing what happens underneath: how memory is managed, how programs execute, why code behaves the way it does.
 
-### 💻 Tech Stack
+I learn by writing code regularly and turning concepts into small, practical projects. Software development and problem-solving are where I want to grow.
 
-#### ⚡ Languages
+**Currently focused on**
 
-![C](https://img.shields.io/badge/C-Low%20Level-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Systems%20Programming-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- Programming fundamentals in C, C++ and Java
+- Problem-solving and writing cleaner code
+- Building projects to apply what I learn
+- Version control workflows with Git and GitHub
 
-#### 🌐 Web
-
-![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-IDE-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
+<br>
 
 ---
 
-### 📊 GitHub Stats
+## Tech Stack
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-seven-beta-68.vercel.app/api?username=shreybaba&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=02000e&title_color=a855f7&icon_color=7c3aed&text_color=c4b5fd&count_private=true&rank_icon=github&include_all_commits=true&custom_title=Shreyansh%27s+Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=shreybaba&theme=midnight-purple&hide_border=true&background=02000e&ring=a855f7&fire=ff4ecd&currStreakLabel=a855f7&sideLabels=7c3aed&dates=c4b5fd&sideNums=ffffff" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><sub><b>LANGUAGES</b></sub></td>
+    <td align="center" width="200"><sub><b>WEB</b></sub></td>
+    <td align="center" width="200"><sub><b>TOOLS</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,java&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,java&theme=light">
+        <img alt="C, C++, Java" src="https://skillicons.dev/icons?i=c,cpp,java">
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css&theme=light">
+        <img alt="HTML5, CSS3" src="https://skillicons.dev/icons?i=html,css">
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=light">
+        <img alt="Git, GitHub, Visual Studio Code" src="https://skillicons.dev/icons?i=git,github,vscode">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub>C · C++ · Java</sub></td>
+    <td align="center"><sub>HTML5 · CSS3</sub></td>
+    <td align="center"><sub>Git · GitHub · VS Code</sub></td>
+  </tr>
+</table>
 
-<br/>
-
-<div align="center">
-  <img width="38%" src="https://github-readme-stats-seven-beta-68.vercel.app/api/top-langs/?username=shreybaba&layout=donut&theme=midnight-purple&hide_border=true&bg_color=02000e&title_color=a855f7&text_color=c4b5fd&langs_count=7&custom_title=Languages" />
-</div>
+<br>
 
 ---
 
-### 📅 Contribution Activity
+## GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreybaba&theme=monokai" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shreybaba&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9D1D9&text_color=8B949E&icon_color=6E7681">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shreybaba&show_icons=true&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A&icon_color=8C959F">
+  <img alt="Shreyansh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shreybaba&show_icons=true&hide_border=true&bg_color=00000000" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shreybaba&layout=compact&hide_border=true&bg_color=00000000&title_color=C9D1D9&text_color=8B949E">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shreybaba&layout=compact&hide_border=true&bg_color=00000000&title_color=24292F&text_color=57606A">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreybaba&layout=compact&hide_border=true&bg_color=00000000" width="49%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shreybaba&hide_border=true&background=00000000&stroke=30363D&ring=8B949E&fire=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=shreybaba&hide_border=true&background=00000000&stroke=D0D7DE&ring=57606A&fire=24292F&currStreakNum=24292F&sideNums=24292F&currStreakLabel=57606A&sideLabels=57606A&dates=6E7681">
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=shreybaba&hide_border=true&background=00000000" width="98%">
+</picture>
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreybaba&theme=monokai" />
-  &nbsp;
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreybaba&theme=monokai" />
-  &nbsp;
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreybaba&theme=monokai&utcOffset=5.5" />
-</div>
+<br>
 
 ---
 
+## Contribution Activity
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreybaba&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shreybaba&bg_color=0d1117&color=8b949e&line=6e7681&point=c9d1d9&area=true&area_color=6e7681&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shreybaba&bg_color=ffffff&color=57606a&line=8c959f&point=24292f&area=true&area_color=8c959f&hide_border=true">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shreybaba&hide_border=true" width="98%">
+</picture>
+
+</div>
+
+<br>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shreyansh-pandey-44353038a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shreyansh%20Pandey-30363D?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:shreybaba001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shreybaba001%40gmail.com-30363D?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/shreybaba"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-shreybaba-30363D?style=flat-square&logo=github&logoColor=white"></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>`while (learning) { build(); }`</sub>
+
+<br>
+
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=shreybaba&label=Profile%20views&color=555555&style=flat-square">
+
 </div>
