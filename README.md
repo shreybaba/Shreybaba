@@ -22,10 +22,6 @@ B.Tech CSE (2nd year) · Galgotias University · Noida, India
 
 ## About
 
-```text
-shreyansh@noida:~$ cat about.txt
-```
-
 I'm a second-year Computer Science student building strong fundamentals in C, C++ and Java. I care less about memorising syntax and more about knowing what happens underneath: how memory is managed, how programs execute, why code behaves the way it does.
 
 I learn by writing code regularly and turning concepts into small, practical projects. Software development and problem-solving are where I want to grow.
@@ -42,42 +38,30 @@ I learn by writing code regularly and turning concepts into small, practical pro
 ---
 
 ## Tech Stack
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center" width="200"><sub><b>LANGUAGES</b></sub></td>
-    <td align="center" width="200"><sub><b>WEB</b></sub></td>
-    <td align="center" width="200"><sub><b>TOOLS</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,java&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,java&theme=light">
-        <img alt="C, C++, Java" src="https://skillicons.dev/icons?i=c,cpp,java">
-      </picture>
-    </td>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css&theme=light">
-        <img alt="HTML5, CSS3" src="https://skillicons.dev/icons?i=html,css">
-      </picture>
-    </td>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=light">
-        <img alt="Git, GitHub, Visual Studio Code" src="https://skillicons.dev/icons?i=git,github,vscode">
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub>C · C++ · Java</sub></td>
-    <td align="center"><sub>HTML5 · CSS3</sub></td>
-    <td align="center"><sub>Git · GitHub · VS Code</sub></td>
-  </tr>
-</table>
+<sub><b>LANGUAGES</b></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java">
+
+<br><br>
+
+<sub><b>WEB</b></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3">
+
+<br><br>
+
+<sub><b>TOOLS</b></sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code">
+
+</div>
 
 <br>
 
